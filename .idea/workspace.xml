@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5482d98-4182-4e8b-9775-618034716926" name="Default Changelist" comment="Chapter 3 Excercise Progress">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-web-dev-exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/META-INF/java-web-dev-exercises.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/Alice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/MilesPerGallon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/exercises/RectangleArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/HelloMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn1datatypes/TempConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/ArrayGradebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/ArrayListGradebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn2controlflowandcollections/HashMapGradebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn3classes1/SchoolPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn3classes1/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn4classes2/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/main/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn5unittesting/test/CarTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn6inheritance/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn6inheritance/HouseCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Case.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Cone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Flavor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Ingredient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/demos/lsn7interfaces/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/studios/areaofacircle/Area.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-web-dev-exercises/org/launchcode/java/studios/areaofacircle/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/launchcode/java/studios/countingcharacters/CountingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/java/demos/lsn1datatypes/HelloMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/java/demos/lsn1datatypes/HelloMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/java/demos/lsn1datatypes/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/java/demos/lsn1datatypes/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/java/demos/lsn1datatypes/TempConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/java/demos/lsn1datatypes/TempConverter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java-web-dev-exercises" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VoyTQIk7XGLLY6eRjECWHXduIG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Application.CountingCharacters">
+    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.java.studios.areaofacircle.Area" />
+      <module name="java-web-dev-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.launchcode.java.studios.areaofacircle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListGradebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.java.demos.lsn2controlflowandcollections.ArrayListGradebook" />
+      <module name="java-web-dev-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.launchcode.java.demos.lsn2controlflowandcollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ArrayListPractice" />
+      <module name="java-web-dev-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ArrayPractice" />
+      <module name="java-web-dev-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.java.studios.countingcharacters.CountingCharacters" />
+      <module name="java-web-dev-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.launchcode.java.studios.countingcharacters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountingCharacters" />
+        <item itemvalue="Application.ArrayListPractice" />
+        <item itemvalue="Application.ArrayPractice" />
+        <item itemvalue="Application.Area" />
+        <item itemvalue="Application.ArrayListGradebook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5482d98-4182-4e8b-9775-618034716926" name="Default Changelist" comment="" />
+      <created>1577933749997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577933749997</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Completed Chapter 2 Exercise">
+      <created>1578161061085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578161061085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed Chapter 2 Studio">
+      <created>1578360304055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578360304055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chapter 3 Excercise Progress">
+      <created>1578451413264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578451413264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Chapter 2 Exercise" />
+    <MESSAGE value="Completed Chapter 2 Studio" />
+    <MESSAGE value="Chapter 3 Excercise Progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 Excercise Progress" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="887" y="124" key="CommitChangelistDialog2" timestamp="1578451412500">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="887" y="124" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1578451412500" />
+    <state width="1877" height="408" key="GridCell.Tab.0.bottom" timestamp="1578533653390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578533653390" />
+    <state width="1877" height="408" key="GridCell.Tab.0.center" timestamp="1578533653390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578533653390" />
+    <state width="1877" height="408" key="GridCell.Tab.0.left" timestamp="1578533653390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578533653390" />
+    <state width="1877" height="408" key="GridCell.Tab.0.right" timestamp="1578533653390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578533653390" />
+    <state x="893" y="275" width="998" height="708" key="SettingsEditor" timestamp="1578451676819">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="893" y="275" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578451676819" />
+    <state x="1032" y="262" key="Vcs.Push.Dialog.v2" timestamp="1578451418045">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1032" y="262" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1578451418045" />
+    <state x="1006" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1578527983229">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1006" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578527983229" />
+    <state x="1099" y="249" key="run.anything.popup" timestamp="1578159841341">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1099" y="249" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578159841341" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578447056409">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578447056409" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/launchcode/java/studios/areaofacircle/Area.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercises/ArrayPractice.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
