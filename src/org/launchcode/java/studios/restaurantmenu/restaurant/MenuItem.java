@@ -17,33 +17,19 @@ public class MenuItem {
     public double getItemPrice() {
         return itemPrice;
     }
+    public void setItemPrice(double itemPrice) { this.itemPrice = itemPrice; }
 
-    public void setItemPrice(double itemPrice) {
-        this.itemPrice = itemPrice;
-    }
-
-    public String getItemDescription() {
-        return itemDescription;
-    }
-
-    public void setItemDescription(String itemDescription) {
-        this.itemDescription = itemDescription;
-    }
+    public String getItemDescription() { return itemDescription; }
+    public void setItemDescription(String itemDescription) { this.itemDescription = itemDescription; }
 
     public String getItemCategory() {
         return itemCategory;
     }
-
-    public void setItemCategory(String itemCategory) {
-        this.itemCategory = itemCategory;
-    }
+    public void setItemCategory(String itemCategory) { this.itemCategory = itemCategory; }
 
     public boolean getItemStatus() {
         return itemStatus;
     }
-
-    public void setItemStatus(boolean itemStatus) {
-        this.itemStatus = itemStatus;
-    }
+    public void setItemStatus(boolean itemStatus) { this.itemStatus = itemStatus; }
 
 }
