@@ -5,27 +5,54 @@ import java.util.Date;
 
 public class Menu {
 
-    public static void main(String[] args) {
+    private ArrayList<MenuItem> items;
+    private Date dateUpdated;
 
-        ArrayList<MenuItem> menu = new ArrayList<>();
-        Date dateUpdated = new Date();
+    public Menu(ArrayList<MenuItem> items, Date dateUpdated) {
+        this.items = items;
+        this.dateUpdated = dateUpdated;
+    }
 
-        // Create an ArrayList to store MenuItems
-        menu.add(new MenuItem(19.99, "Onion Rings", "Appetizer", false));
-        menu.add(new MenuItem(199.99, "Pizza", "Main", true));
+    public void addMenuItem(MenuItem MenuItem) {
+            this.items.add(MenuItem);
+    }
 
-        System.out.println("Anytime this is run, dateUpdated is updated to the current date, most recently: " + dateUpdated);
-
-        // Describe the items in the ArrayList
-        for (int i = 0; i < menu.size(); i++) {
+    public void printMenu() {
+        for (int i = 0; i < items.size(); i++) {
             System.out.println("\n*****");
-            System.out.println("Menu Item: " + menu.get(i).getItemDescription());
-            System.out.println("Price: " + menu.get(i).getItemPrice());
-            System.out.println("Category: " + menu.get(i).getItemCategory());
-            if (menu.get(i).getItemStatus()) {
+            System.out.println("Menu Item: " + items.get(i).getItemDescription());
+            System.out.println("Price: " + items.get(i).getItemPrice());
+            System.out.println("Category: " + items.get(i).getItemCategory());
+            if (items.get(i).getItemStatus()) {
                 System.out.println("Check out this new item!");
             }
             System.out.println("*****");
         }
     }
+
+    public void printMenuItem(int index) {
+        System.out.println("\n*****");
+        System.out.println("Menu Item: " + items.get(index).getItemDescription());
+        System.out.println("Price: " + items.get(index).getItemPrice());
+        System.out.println("Category: " + items.get(index).getItemCategory());
+        if (items.get(index).getItemStatus()) {
+            System.out.println("Check out this new item!");
+        }
+        System.out.println("*****");
+    }
+
+    public void removeMenuItem(int itemIndex) {
+        items.remove(itemIndex);
+    }
+
+    public Date dateLastUpdated() {
+        return dateUpdated;
+    }
+
+    public void setLastUpdated(Date lastUpdated) {
+        this.dateUpdated = lastUpdated;
+    }
+
+
+
 }

@@ -1,5 +1,7 @@
 package org.launchcode.java.studios.restaurantmenu.restaurant;
 
+import java.util.Objects;
+
 public class MenuItem {
 
     private double itemPrice;
@@ -32,4 +34,17 @@ public class MenuItem {
     }
     public void setItemStatus(boolean itemStatus) { this.itemStatus = itemStatus; }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        MenuItem menuItem = (MenuItem) o;
+        return Objects.equals(itemDescription, menuItem.itemDescription) &&
+                Objects.equals(itemCategory, menuItem.itemCategory);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(itemDescription, itemCategory);
+    }
 }
